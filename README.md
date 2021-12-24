@@ -1,35 +1,40 @@
 ```
-|-- Java
+
+* : Production-Level
+
+|-- Java RESTful API
     |-- JSP
     |-- Spring
-    |-- Springboot
-    |-- JPA
-    |-- QueryDSL
-    |-- Cache
-    |-- SMTP Email
-    |-- Security
-    |-- Thymeleaf
-
+    |-- * Springboot 
+    |-- * JPA
+    |-- * QueryDSL
+    |-- * Cache
+    |-- * SMTP Email
+    |-- * Security
+    |-- * Thymeleaf
+ 
 |-- DataBase    
-    |-- Postgres
-    |-- Mysql
+    |-- * Postgres
+    |-- * Mysql
     |-- MongoDB
     |-- Oracle
-    |-- Flyway Migration
+    |-- * Flyway Migration
 
 |-- Python
     |-- Django - Web
-    |-- Flask 
+    |-- * Flask 
         |-- Scraping
         |-- SQLAlchemy
 
 |-- Javascript
     |-- Vanilla JS
     |-- JQuery
+    |-- Ajax
     |-- React
     
 |-- Docker
 
 |-- ElasticSearch
+
 
 ```
