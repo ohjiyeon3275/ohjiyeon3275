@@ -26,6 +26,7 @@
 |-- Javascript
     |-- Vanilla JS
     |-- JQuery
+    |-- Ajax
     |-- React
     
 |-- Docker
